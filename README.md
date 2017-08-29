@@ -1,2 +1,1 @@
-# templateIfy
-JavaScript beautifier.
+# templateIfy [Live Demo!](https://jsfiddle.net/kog39y4r/)
